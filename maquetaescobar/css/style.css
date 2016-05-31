@@ -1,0 +1,53 @@
+header{
+background:#9A3DFD;
+height: 50px;	
+padding:10px 0px;
+}
+
+.ad1{
+	background: #D76812;
+	float: right;
+	height: 490px;
+	width: 19%;
+}
+
+.maq1	{
+	float:left;
+	background: #FF9A4C;
+	width: 45%;
+	height: 400px;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+}
+
+.maq2{
+	float:left;
+	background: #A3FF4C;
+	width: 36%;
+	height: 150px;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+}
+
+.maq3{
+	float:left;
+	background: #667F2C;
+	width: 36%;
+	height: 150px;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+}
+
+
+
+footer{
+	background: #3DC7FD;
+	clear: both;
+	height: 40px; 
+	margin-top: -50px;	
+	position: relative;
+	text-align: center;
+}
